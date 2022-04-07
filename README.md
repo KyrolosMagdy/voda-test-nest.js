@@ -34,6 +34,12 @@ $ npm install
 
 ## Running the app
 
+create a file named ```ormconfig.json``` <br />
+add the JSON data related to the DB as sent by email <br />
+Have fun <br />
+
+Have fun
+
 ```bash
 # development
 $ npm run start
